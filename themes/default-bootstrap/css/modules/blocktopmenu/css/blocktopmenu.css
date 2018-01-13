@@ -1,0 +1,14 @@
+#block_top_menu {
+  padding-top: 25px;
+}
+
+/*# sourceMappingURL=blocktopmenu.css.map */
+
+.block_top_menu_fixed {
+	width: 1200px !important;
+	padding-top: 0 !important;
+	z-index: 9999;
+	position: fixed;
+	left: 0;
+	top: 0;
+}
